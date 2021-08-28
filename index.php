@@ -45,5 +45,7 @@
 		?>
 
 	</main>
+	
+	<footer>Jean Carlos de Paula - 20039435-5 - SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET</footer>
 </body>
 </html>
